@@ -94,7 +94,7 @@
 91	/	/	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#143.621#143.751
 92	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	_	_	_	words@iys1984f#@iys1984f#216.571#216.759
 93	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iys1984f#@iys1984f#216.759#216.947
-94	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@iys1984f#@iys1984f#216.947#217.135
+94	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iys1984f#@iys1984f#216.947#217.135
 95	нравилось	нравиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@iys1984f#@iys1984f#217.135#217.323
 96	?	?	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#217.323#217.511
 97	/	/	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#217.511#217.699
