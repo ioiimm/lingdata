@@ -1028,7 +1028,7 @@
 1025	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vnp1986f#@vnp1986f#398.25#398.546
 1026	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	words@vnp1986f#@vnp1986f#398.546#398.842
 1027	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@vnp1986f#@vnp1986f#398.842#399.138
-1028	подписыва...	подписывать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@vnp1986f#@vnp1986f#399.138#399.434
+1028	подписыва...	подписывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@vnp1986f#@vnp1986f#399.138#399.434
 1029	/	/	PUNCT	_	_	_	_	_	words@vnp1986f#@vnp1986f#399.434#399.73
 1030	/	/	PUNCT	_	_	_	_	_	words@vnp1986f#@vnp1986f#399.73#400.034
 1031	#смеется#	#смеется#	X	_	_	_	_	_	words@vnp1986f#@vnp1986f#400.051#401.439
